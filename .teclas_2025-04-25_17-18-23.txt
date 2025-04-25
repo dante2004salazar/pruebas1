@@ -596,3 +596,14 @@
 17:27:45: Key.left
 17:27:45: Key.left
 17:27:45: Key.left
+17:27:49: Key.right
+17:27:49: g
+17:27:50: Key.enter
+17:27:52: Key.up
+17:27:52: Key.up
+17:27:52: Key.enter
+17:27:56: c
+17:27:56: Key.enter
+17:27:56: Key.enter
+17:27:56: Key.enter
+17:27:56: c
