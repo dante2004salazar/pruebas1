@@ -496,3 +496,11 @@
 17:25:44: Key.enter
 17:25:48: Key.alt_l
 17:25:48: Key.tab
+17:25:51: Key.ctrl_l
+17:25:52: \x03
+17:25:52: Key.cmd
+17:25:52: w
+17:25:53: Key.enter
+17:25:55: Key.ctrl_l
+17:25:55: \x16
+17:25:55: Key.enter
