@@ -1,0 +1,11 @@
+17:18:26: g
+17:18:26: m
+17:18:26: Key.backspace
+17:18:26: Key.backspace
+17:18:26: Key.backspace
+17:18:27: Key.backspace
+17:18:27: o
+17:18:27: u
+17:18:27: t
+17:18:28: Key.right
+17:18:28: Key.enter
