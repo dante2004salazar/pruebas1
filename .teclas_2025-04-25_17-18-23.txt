@@ -69,3 +69,15 @@
 17:20:27: e
 17:20:27: Key.space
 17:20:30: Key.enter
+17:21:10: k
+17:21:10: Key.backspace
+17:21:10: Key.backspace
+17:21:10: Key.backspace
+17:21:10: o
+17:21:11: k
+17:21:11: Key.ctrl_l
+17:21:11: \x01
+17:21:12: Key.backspace
+17:21:12: o
+17:21:12: k
+17:21:12: Key.enter
