@@ -630,3 +630,4 @@
 17:28:02: Key.backspace
 17:28:02: Key.backspace
 17:28:03: Key.backspace
+17:31:49: Key.enter
